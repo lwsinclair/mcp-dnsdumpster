@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/maxweeden-mcp-dnsdumpster-badge.png)](https://mseep.ai/app/maxweeden-mcp-dnsdumpster)
+
 # DNSDumpster - MCP Server
 
 A Model Context Protocol (MCP) server for interacting with the DNSDumpster API, enabling AI assistants to perform detailed DNS reconnaissance through natural language requests.
